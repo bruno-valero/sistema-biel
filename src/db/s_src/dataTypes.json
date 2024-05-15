@@ -1,0 +1,20 @@
+{
+    "param_1": "int",
+    "param_2": {
+        "type": "decimal",
+        "precision": "22",
+        "scale": "7"
+    },
+    "param_3": "int",
+    "param_4k": "int",
+    "param_5": "string",
+    "param_6h": "string",
+    "param_7": "string",
+    "param_8": "string",
+    "param_10": "int",
+    "param_13": {
+        "type": "decimal",
+        "precision": "15",
+        "scale": "3"
+    }
+}

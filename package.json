@@ -1,0 +1,24 @@
+{
+  "name": "biel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx src/index.ts",
+    "watch": "tsx watch src/index.ts",
+    "build": "tsup src lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "tsx": "^4.10.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "node": "^20.13.1",
+    "tsup": "^8.0.2"
+  }
+}
